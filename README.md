@@ -9,7 +9,7 @@ Pre-print version of this work is available on ArXiv. <a href="https://arxiv.org
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Citation
-If you use this dataset, please refer to the following paper:
+If you use this dataset, please cite the following paper:
 ```
 @article{mahapatra2023improving,
   title={Improving Access to Justice for the Indian Population: A Benchmark for Evaluating Translation of Legal Text to Indian Languages},
