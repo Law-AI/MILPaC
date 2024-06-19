@@ -7,16 +7,3 @@
 ## License
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-## Citation
-If you use this dataset, please cite the following paper:
-```
-@article{mahapatra2023improving,
-  title={Improving Access to Justice for the Indian Population: A Benchmark for Evaluating Translation of Legal Text to Indian Languages},
-  author={Mahapatra, Sayan and Datta, Debtanu and Soni, Shubham and Goswami, Adrijit and Ghosh, Saptarshi},
-  journal={arXiv preprint arXiv:2310.09765},
-  year={2023}
-}
-```
-
-## Contact
-For any inquiries, feedback, or collaboration opportunities, please contact to {debtanudatta04 [at] gmail [dot] com}.
