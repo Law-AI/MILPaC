@@ -1,6 +1,7 @@
 # MILPaC: A Novel Benchmark for Evaluating Translation of Legal Text to Indian Languages
 
-Pre-print version of this work is available on ArXiv. <a href="https://arxiv.org/abs/2310.09765">[ArXiv-Link] </a>
+<!-- Pre-print version of this work is available on ArXiv. <a href="https://arxiv.org/abs/2310.09765">[ArXiv-Link] </a>
+-->
 
 ## The MILPaC Dataset 
 <b> MILPaC </b> (**M**ultilingual **I**ndian **L**egal **Pa**rallel **C**orpus) is the first parallel corpus of legal text in Indian languages, consisting of 3 high-quality datasets (**MILPaC-IP**, **MILPaC-CCI-FAQ**, and **MILPaC-Acts**) compiled from reliable sources of legal information in India. It includes parallel text units in English and 9 Indian languages, covering Indo-Aryan (Hindi, Bengali, Marathi, Punjabi, Gujarati, & Oriya) and Dravidian (Tamil, Telugu, & Malayalam) languages, many of which are low-resource. MILPaC is designed to evaluate the performance of Machine Translation models in translating legal texts from English to Indian languages or between Indian languages.
