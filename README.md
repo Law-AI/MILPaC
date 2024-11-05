@@ -5,7 +5,19 @@ Paper accepted for publication in the **Transactions on Asian and Low-Resource L
 ## The MILPaC Dataset 
 <b> MILPaC </b> (**M**ultilingual **I**ndian **L**egal **Pa**rallel **C**orpus) is the first parallel corpus of legal text in Indian languages, consisting of 3 high-quality datasets (**MILPaC-IP**, **MILPaC-CCI-FAQ**, and **MILPaC-Acts**) compiled from reliable sources of legal information in India. It includes parallel text units in English and 9 Indian languages, covering Indo-Aryan (Hindi, Bengali, Marathi, Punjabi, Gujarati, & Oriya) and Dravidian (Tamil, Telugu, & Malayalam) languages, many of which are low-resource. **MILPaC** serves as a robust resource for evaluating Machine Translation (MT) systems in translating legal text between English and Indian languages or between Indian languages. Additionally, **MILPaC-IP** and **MILPaC-CCI-FAQ** datasets can be applied to other NLP tasks, such as cross-lingual question answering, further enhancing their utility.
 
-#### Folder Structure
+### Folder Structure
+
+This repository is organized as follows:
+```
+MILPaC/
+├── README.md                       # Repository README file
+├── License                         # Repository License file
+└── Data/
+    └── MILPaC/
+        ├── MILPaC-IP.xlsx          # Intellectual property dataset
+        ├── MILPaC-CCI-FAQ.xlsx     # Consumer rights FAQ dataset
+        └── MILPaC-Acts.xlsx        # Legislative and legal acts dataset
+```
 
 #### Usage
 
