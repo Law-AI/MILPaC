@@ -38,7 +38,7 @@ MILPaC/
 Each dataset file can be loaded using Python libraries like `pandas` for data manipulation or `openpyxl` for working with Excel files directly.
 
 ## License
-This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The MILPaC dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Citation
 If you use this dataset, please cite the following paper:
