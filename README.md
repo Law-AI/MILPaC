@@ -15,7 +15,7 @@ MILPaC/
 └── Data/
     └── MILPaC/
         ├── MILPaC-IP.xlsx          # Intellectual property dataset
-        ├── MILPaC-CCI-FAQ.xlsx     # Consumer rights FAQ dataset
+        ├── MILPaC-CCI-FAQ.xlsx     # The Competition Act FAQ dataset
         └── MILPaC-Acts.xlsx        # Legislative and legal acts dataset
 ```
 
