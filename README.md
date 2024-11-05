@@ -8,5 +8,11 @@ Paper accepted for publication in the **Transactions on Asian and Low-Resource L
 ## License
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+## Citation
+If you use this dataset, please cite the following paper:
+```
+```
+
+
 ## Contact
 For any inquiries, feedback, or collaboration opportunities, please contact to {debtanudatta04 [at] gmail [dot] com}.
