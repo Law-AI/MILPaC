@@ -11,7 +11,7 @@ This repository is organized as follows:
 ```
 MILPaC/
 ├── README.md                       # Repository README file
-├── License                         # Repository License file
+├── LICENSE                         # Repository License file
 └── Data/
     └── MILPaC/
         ├── MILPaC-IP.xlsx          # Intellectual property dataset
