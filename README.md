@@ -17,7 +17,7 @@ All three datasets are stored under the `Data/MILPaC` folder and are provided in
 | **target_lang** | Target language code (e.g., "HI" for Hindi)        |
 | **target_text** | Translated text in the target language             |
 
-Each `.xlsx` file corresponds to one of the datasets (MILPaC-IP, MILPaC-CCI-FAQ, MILPaC-Acts) and follows the same schema as described above.
+Each `.xlsx` file corresponds to one of the datasets (**MILPaC-IP**, **MILPaC-CCI-FAQ**, **MILPaC-Acts**) and follows the same schema as described above.
 
 ### Folder Structure
 
