@@ -12,10 +12,10 @@ All three datasets are stored under the `Data/MILPaC` folder and are provided in
 | Attribute      | Description                                         |
 |----------------|-----------------------------------------------------|
 | **id**         | Unique identifier for each text unit                |
-| **source_lang** | Source language code (e.g., "EN" for English)      |
-| **source_text** | Source text in the source language                 |
-| **target_lang** | Target language code (e.g., "HI" for Hindi)        |
-| **target_text** | Translated text in the target language             |
+| **src_lang**    | Source language code (e.g., "EN" for English)      |
+| **src**         | Source text in the source language                 |
+| **tgt_lang**    | Target language code (e.g., "HI" for Hindi)        |
+| **tgt**         | Translated text in the target language             |
 
 Each `.xlsx` file corresponds to one of the datasets (**MILPaC-IP**, **MILPaC-CCI-FAQ**, **MILPaC-Acts**) and follows the same schema as described above.
 
