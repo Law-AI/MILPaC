@@ -24,13 +24,13 @@ Each `.xlsx` file corresponds to one of the datasets (**MILPaC-IP**, **MILPaC-CC
 This repository is organized as follows:
 ```
 MILPaC/
-├── README.md                       # Repository README file
-├── LICENSE                         # Repository License file
+├── README.md                              # Repository README file
+├── LICENSE                                # Repository License file
 └── Data/
     └── MILPaC/
-        ├── MILPaC-IP.xlsx          # Intellectual property dataset
-        ├── MILPaC-CCI-FAQ.xlsx     # The Competition Act FAQ dataset
-        └── MILPaC-Acts.xlsx        # Legislative and legal acts dataset
+        ├── MILPaC_IP_dataset.xlsx         # Intellectual property dataset
+        ├── MILPaC_CCI_FAQ_dataset.xlsx    # The Competition Act FAQ dataset
+        └── MILPaC_Acts_dataset.xlsx       # Legislative and legal acts dataset
 ```
 
 #### Usage
