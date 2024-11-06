@@ -43,6 +43,15 @@ The MILPaC dataset is licensed under the Creative Commons Attribution-NonCommerc
 ## Citation
 If you use this dataset, please cite the following paper:
 ```
+@misc{mahapatra2023improvingaccessjusticeindian,
+      title={Improving Access to Justice for the Indian Population: A Benchmark for Evaluating Translation of Legal Text to Indian Languages}, 
+      author={Sayan Mahapatra and Debtanu Datta and Shubham Soni and Adrijit Goswami and Saptarshi Ghosh},
+      year={2023},
+      eprint={2310.09765},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2310.09765}, 
+}
 ```
 
 
