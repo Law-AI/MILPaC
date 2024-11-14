@@ -1,6 +1,6 @@
 # MILPaC: A Novel Benchmark for Evaluating Translation of Legal Text to Indian Languages
 
-Paper accepted for publication in the **Transactions on Asian and Low-Resource Language Information Processing (ACM TALLIP)!**
+Paper accepted for publication in the **Transactions on Asian and Low-Resource Language Information Processing (ACM TALLIP)!** <a href="https://arxiv.org/abs/2310.09765">[pdf(arXiv)]</a>
 
 ## The MILPaC Dataset 
 <b> MILPaC </b> (**M**ultilingual **I**ndian **L**egal **Pa**rallel **C**orpus) is the first parallel corpus of legal text in Indian languages, consisting of 3 high-quality datasets (**MILPaC-IP**, **MILPaC-CCI-FAQ**, and **MILPaC-Acts**) compiled from reliable sources of legal information in India. It includes parallel text units in English and 9 Indian languages, covering Indo-Aryan (Hindi, Bengali, Marathi, Punjabi, Gujarati, and Oriya) and Dravidian (Tamil, Telugu, and Malayalam) languages, many of which are low-resource. **MILPaC** serves as a robust resource for evaluating Machine Translation (MT) systems in translating legal text between English and Indian languages or between Indian languages. Additionally, **MILPaC-IP** and **MILPaC-CCI-FAQ** datasets can be applied to other NLP tasks, such as cross-lingual question answering, further enhancing their utility. For more details regarding this dataset, please refer to our paper.
@@ -11,7 +11,7 @@ All three datasets are stored under the `Data/MILPaC` folder and are provided in
 
 | Attribute      | Description                                         |
 |----------------|-----------------------------------------------------|
-| **dataset**    | Name of the dataset (e.g., "IP" for **MILPaC-IP**   |
+| **dataset**    | Name of the dataset (e.g., "IP" for **MILPaC-IP**)  |
 | **id**         | Unique identifier for each text unit                |
 | **src_lang**    | Source language code (e.g., "EN" for English)      |
 | **src**         | Source text in the source language                 |
@@ -44,14 +44,13 @@ The MILPaC dataset is licensed under the Creative Commons Attribution-NonCommerc
 ## Citation
 If you use this dataset, please cite the following paper:
 ```
-@misc{mahapatra2023improvingaccessjusticeindian,
-      title={Improving Access to Justice for the Indian Population: A Benchmark for Evaluating Translation of Legal Text to Indian Languages}, 
-      author={Sayan Mahapatra and Debtanu Datta and Shubham Soni and Adrijit Goswami and Saptarshi Ghosh},
-      year={2023},
-      eprint={2310.09765},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2310.09765}, 
+@misc{mahapatra2024milpacnovelbenchmarkevaluating,
+      title = {MILPaC: A Novel Benchmark for Evaluating Translation of Legal Text to Indian Languages}, 
+      author = {Sayan Mahapatra and Debtanu Datta and Shubham Soni and Adrijit Goswami and Saptarshi Ghosh},
+      year = {2024},
+      journal = {ACM Trans. Asian Low-Resour. Lang. Inf. Process.},
+      publisher = {Association for Computing Machinery},
+      url={https://arxiv.org/abs/2310.09765},
 }
 ```
 
