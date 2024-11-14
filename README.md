@@ -44,13 +44,12 @@ The MILPaC dataset is licensed under the Creative Commons Attribution-NonCommerc
 ## Citation
 If you use this dataset, please cite the following paper:
 ```
-@misc{mahapatra2024milpacnovelbenchmarkevaluating,
+@article{mahapatra2024milpacnovelbenchmarkevaluating,
       title = {MILPaC: A Novel Benchmark for Evaluating Translation of Legal Text to Indian Languages}, 
       author = {Sayan Mahapatra and Debtanu Datta and Shubham Soni and Adrijit Goswami and Saptarshi Ghosh},
       year = {2024},
       journal = {ACM Trans. Asian Low-Resour. Lang. Inf. Process.},
       publisher = {Association for Computing Machinery},
-      url={https://arxiv.org/abs/2310.09765},
 }
 ```
 
