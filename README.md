@@ -11,6 +11,7 @@ All three datasets are stored under the `Data/MILPaC` folder and are provided in
 
 | Attribute      | Description                                         |
 |----------------|-----------------------------------------------------|
+| **dataset**    | Name of the dataset (e.g., "IP" for **MILPaC-IP**   |
 | **id**         | Unique identifier for each text unit                |
 | **src_lang**    | Source language code (e.g., "EN" for English)      |
 | **src**         | Source text in the source language                 |
